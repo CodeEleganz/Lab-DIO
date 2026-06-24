@@ -1,0 +1,14 @@
+Neste projeto a proposta é criar um banco de dados azure,
+Primeiramente, depois de logado no portal da Azure, clico em criar banco de dados SQL;
+Coloco o nome do banco de dados;
+na opção "servidor", crio um novo servisor para poder gereciar, coloco o nome dele e a localização de onde este estará alocado;
+em metodo de autenticação, seleciono a forma de autenticação para acesso (Eu defini pelo SQL server)
+Para finalizar, clico em Examinar/Criar;
+
+Eu selecionei tambem a opção de não usar pool elastico ( que pode ser sobre a elasticidade que abordamos em uma das aulas anteriores)
+
+O ambiente de carga eu coloquei como desenvolvimento
+
+Em redundancia, deixei em redundancia local.
+
+Por fim, clico em revisar / criar e enfim criar.
